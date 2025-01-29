@@ -14,7 +14,7 @@
     <body>
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-lightblue">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="index.php">PhilBizGlobal - User Management</a>
+            <a class="navbar-brand ps-3" href="index.php">PhilBizGlobal - User Management System</a>
             <!-- Sidebar Toggle-->
 
             <!-- Navbar Search-->
